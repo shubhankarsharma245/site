@@ -149,7 +149,7 @@ $(window).resize(onWindowResize);
 var profile;
 swal({
 		title: "Hello World!!!",
-		text: "Hello visitor, you have landed upon little webspace of Shubhankar Sharma. I hope you're doing well. \n\n I'm actively looking for job opportunities. Are you hiring? ",
+		text: "Hello visitor, you have landed upon little webspace of Shubhankar Sharma. I hope you're doing well. \n\n I'm actively looking for new job opportunities. Are you hiring? ",
 		// buttons: ["Nope, I'm just looking around.", "Yes, I'm hiring :)"]
 		buttons: {
 			cancel: {
