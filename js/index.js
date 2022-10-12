@@ -190,7 +190,7 @@ swal({
 			}
 		}).then((value)=>{
 			if(value===true) { 
-				window.open('https://drive.google.com/file/d/1HNiLQilVqFTc7sKgjQEefOQB0KBLNS6w/view');
+				window.open('https://drive.google.com/file/d/1kRLbomS6q7tr2yRv_LEEi1TffWQUrF62/view?usp=sharing');
 			}
 		})
 	}
